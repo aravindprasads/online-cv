@@ -7,9 +7,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Aravind Prasad Sridharan
+    name: Aravind Prasad S
     tagline: Principal SW Engineer @ DELL R&D | Virtualization | Cloud Engineer | Linux | Python | C++ | C | Certified Scrum Master
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: raja.avi@gmail.com
@@ -20,44 +20,27 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
+    
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - Nearly 10 years (9 yrs 10 months) of Software Development Experience. 
+      - Published <b><a href="#patents-id">5 Patents</a></b>, <b><a href="#drafts-id">8 IETF Internet-Drafts</a></b> and <b><a href="#journals-id">2 Springer Journal Publications</a></b>.
+      - Experienced in Kubernetes(K8S), Micro-services, Containers, Dockers, Git and deployed multiple Cloud Native Apps.
+      - <b><a href="#cloudcerts-id">Cloud Certifications</a></b> - <b><a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/TC6KL8HU7TDX">GCP Cloud Architect</a></b>, <b><a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/BQPGV5REFP34">GCP Cloud Engineer</a></b> and <b><a href = "https://www.coursera.org/account/accomplishments/certificate/SBXAS8GLSUVM">AWS Containerizations</a></b>.
+      -	Certified Scrum Master- <b><a href="https://www.scrum-institute.org/badges/52915208011865">52915208011865</a></b> and well experienced in Agile based work projects with International Clients. 
+      - Deployed <b><a href="#webapps-id">Cloud Native Apps</a></b> using Go, Flask, Django and PHP.
+      - Contributing regularly to <b><a href="#opensource-id">Open-source projects</a></b> like Open vSwitch (OVS), Radcli, Tcpdump, FreeRADIUS and Libradius.
+      - All Star Badges in <b><a href="https://www.hackerrank.com/aravindprasad?hr_r=1">Hackerrank</a></b> and <b><a href="https://codingbat.com/done?user=raja.avi@gmail.com&tag=258487199">Codingbat</a></b>.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MTech in Computer Science
+      university: BITS Pilani, India
+      time: 2013 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,8 +49,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: BTech in Information Technology
+      university: MIT, Anna University, India
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,113 +61,162 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+    - role: Principal Software Engineer
+      time: <b>2021 - Present</b>
+      company: <b>DELL Technologies R&D </b>
+      details: |        
+          - Design lead for multiple projects and products across DELL. 
+          - Designing and developing Cloud native Apps, K8S services, NFVs and Virtualized deployments.
+          - Orchestration of Cloud Apps and Deployments in public Clouds - AWS and GCP.
+    
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      time: <b>2017 - 2021</b>
+      company: <b>DELL Technologies R&D </b>
+      details: |        
+          - Worked on Cloud Native Apps, NFV, Containers, K8s and Virtualization deployments.
+          - Developing applications for “As a service” based DELL products and services.
+          
+    - role: Staff Software Engineer
+      time: <b>2013 - 2017</b>
+      company: <b>EMC </b>        
+      details: |                  
+          - Developed multiple Apps in C, C++ and Python and extensively used Opensource off-the-shelf software.
+          - Delivered production level Apps based on Opensource codebases - SDN OpenFlow App based on Open vSwitch (OVS) and RADIUS App based on Radcli and Libradius Codebases and on proprietary Closed source code stacks.
+
+    - role: Software Engineer
+      time: <b>2011 - 2013</b>
+      #company: <b><a href="http://www.force10networks.com/">DELL</a></b>      
+      company: <b>Force10 Networks </b>      
+      details: |        
+          - Was part of the CTO division team and prototyped multiple ideas for various DELL Products.
+          - Few of the successful Ideations were eventually delivered to Customers directly.          
+          - Prototyped R&D ideas on Traceflow and Trill protocols for DELL products. 
+
 projects:
-    title: Projects
+    title: Patents, IETF Drafts and Journals
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      <h4 id="patents-id">Patents</h4>
+    assignments:         
+      - title: <b>1. US 14/529658</b>
+        link: "http://patft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9794114.PN.&OS=PN/9794114&RS=PN/9794114"
+        tagline: "Distributed Handling of Route Installation Failures."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: <b>2. US 16/290556</b>
+        link: "http://patft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10700890.PN.&OS=PN/10700890&RS=PN/10700890"
+        tagline: "Port-based link selection in Spanning Tree Protocol."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: <b>3. US 16/290626</b>
+        link: "http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20200280876.PGNR.&OS=DN/20200280876&RS=DN/20200280876"
+        tagline: "Optimized Control message exchange across deployments."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: <b>4. US 16/355181</b>
+        link: "http://patft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=10721163.PN.&OS=PN/10721163&RS=PN/10721163"
+        tagline: "Bridge-based link selection in Spanning Tree Protocol."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: <b>5. US 16/705722</b>
+        #link: "#hook"
+        tagline: "Trust based Power rationing for POE devices (Publicly visible Patent URL is not published yet from US Patent Office).<br/><br/><h4 id=\"drafts-id\">IETF Drafts</h4>"                
+      
+      - title: <b>1. RADIUS End-to-end Security</b>
+        link: "http://tools.ietf.org/html/draft-aravind-radext-endtoend-attribute-security-00"
+        tagline: "Proposes a method to provide end to end security to Attributes in RADIUS Messages."                
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
+
+      - title: <b>2. TCP Connection Failure Notifications</b>
+        link: "https://tools.ietf.org/html/draft-aravind-tcpm-lively-failure-notifications-00"
+        tagline: "Specifies a method to provide lively notifications of TCP Connection Failures in Network."
+
+      - title: <b>3. MPTCP sub-flows using Traceflow</b>
+        link: "https://tools.ietf.org/html/draft-aravind-mptcp-optimized-subflows-00"
+        tagline: "Offers a solution for optimized usage of MPTCP and its subflows."                
+
+      - title: <b>4. ISIS Reason TLVs</b>
+        link: "https://tools.ietf.org/html/draft-aravind-isis-reason-tlv-00"
+        tagline: "Defines a means of advertising the reasons for generation of new Link State Packet (LSP) Updates using Reason TLVs."
+
+      - title: <b>5. Data Confidentiality in IS-IS</b>
+        link: "https://tools.ietf.org/html/draft-aravind-isis-confidentiality-data-00"
+        tagline: "Proposes a mechanism to provide data confidentiality for Intermediate System to Intermediate System (IS-IS) Link State
+   PDUs (LSPs) and avoid possible replay attacks."
+
+      - title: <b>6. RADIUS Extended Identifier Attribute</b>
+        link: "https://tools.ietf.org/html/draft-aravind-radext-extended-identifier-attribute-00"
+        tagline: "Specifies a technique to alleviate the limitation of limited size (8 bits) of RADIUS Identifier field by proposing a new Extended Identifier attribute."
+
+      - title: <b>7. RADIUS Attribute Security</b>
+        link: "https://tools.ietf.org/html/draft-aravind-radext-attribute-security-00"
+        tagline: "Offers a simple method to provide security to RADIUS message attribute values."
+
+      - title: <b>8. RADIUS Message Bundling</b>
+        link: "https://tools.ietf.org/html/draft-aravind-radext-message-bundling-00"
+        tagline: "Presents a mechanism to bundle multiple RADIUS requests in a single RADIUS Message which could assist in improving the overall performance and scalability. <br/><br/><h4 id=\"journals-id\">Springer Journal Publications</h4>"
+
+
+      - title: <b>1. Cognitive QOS Maintenance in WLAN</b>
+        link: "https://link.springer.com/chapter/10.1007/978-3-642-22543-7_27"
+        tagline: "Proposes a handoff scheme considering the current and dynamic threshold values and a pro-active Load Balancing scheme for efficient management."
+
+      - title: <b>2. Novel Cryptographic scheme for Encryption/Decryption</b>
+        link: "https://link.springer.com/chapter/10.1007%2F978-3-642-27308-7_5"
+        tagline: "Proposes a novel cost-effective small key size symmetric key algorithm suitable to applications requiring high computational speed such as audio and video apps.
+. <br/><br/><h4 id=\"cloudcerts-id\">Cloud Certifications</h4>"                
+
+      - title: <b>1. GCP Cloud Architect</b>
+        link: "https://www.coursera.org/account/accomplishments/specialization/certificate/TC6KL8HU7TDX"
+        tagline: "GCP Cloud Architecture Certification"                
+        
+      - title: <b>2. GCP Cloud Engineer</b>
+        link: "https://www.coursera.org/account/accomplishments/specialization/certificate/BQPGV5REFP34"
+        tagline: "GCP Cloud Engineering Certification"
+        
+      - title: <b>3. AWS Containerizations</b>
+        link: "https://www.coursera.org/account/accomplishments/certificate/SBXAS8GLSUVM"
+        tagline: "Containerizations with AWS"                
+
+      - title: <b>4. Certificates Catalogue</b>
+        link: "https://aravindprasads.github.io/Certificates-Catalogue/"
+        tagline: "Complete Certificates Catalogue"                
 
 publications:
-    title: Publications
+    title: Open-Source Contributions and Apps
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      <h4 id= "opensource-id">Open-source Contributions</h4>
+    papers:        
+      - title: <b>Radcli</b>
+        link: "https://github.com/radcli/radcli/commits?author=aravindprasads"
+        conference: <b>10 contributions</b>. Contributions include feature additions like Namespace, TCP and non-temporary IPv6 Address support, enhancements including provisioning a new dictionary interface for easy user configurations for authentications at clients and multiple bug fixes across the codebase.
+        
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: <b>Open vSwitch(OVS)</b>
+        link: "https://mail.openvswitch.org/pipermail/ovs-git/2019-April/023012.html"
+        conference: Support for handling Route installation failures in OVS Nodes.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: <b>Tcpdump</b>
+        link: "https://github.com/the-tcpdump-group/tcpdump/pull/864"
+        conference: Changes to display EAP Protocol specific info in RADIUS Messages in TCPDUMP output messages.
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: <b>FreeRADIUS</b>
+        link: "https://github.com/FreeRADIUS/freeradius-client/pull/64"
+        conference: Introduced TCP Protocol for transport in RADIUS Message exchanges in RADIUS Client (UDP was alone supported till now).
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: <b>Libradius</b>
+        link: "https://github.com/aravindprasads/libradius-linux-TCP-Support"
+        conference: Libradius supports only UDP as transport protocol for RADIUS Messages. Recently, RADIUS Servers started supporting TCP. Hence, added support for using TCP in Libradius. <br/><br/><h4 id="webapps-id">Cloud Native Apps</h4>            
 
-      - name: Javascript & jQuery
-        level: 98%
+      - title: <b>Code Review Tool for C and H files</b>
+        link: "https://github.com/aravindprasads/Code-review-tool-for-.c-.h-"
+        conference: Developed using Python. <br/> Features include Git Support, Manual File Inputs and XML based Test support.
 
-      - name: Angular
-        level: 98%
+      - title: <b>Stock-value-changes Notifications App using NodeJS (Deployed online)</b>
+        link: "https://stock-notify-nodejs.herokuapp.com/"
+        conference: With Flask and SQL Github repo- <a href="https://github.com/aravindprasad90/Stock-app-flask-sql">Stock-app-flask-sql</a><br/> With Flask and Files-DB Github Repo - <a href="https://github.com/aravindprasads/Stock-Notify-App">Stock-Notify-App</a>
 
-      - name: HTML5 & CSS
-        level: 95%
+      - title: <b>Weather App (Deployed online)</b>
+        link: "https://aravindprasad.pythonanywhere.com/"
+        conference: With Django and MySQL Github repo - <a href="https://github.com/aravindprasad90/weather-webapp-django">weather-webapp-django</a><br/> With Flask and Files-DB Github Repo - <a href="https://github.com/aravindprasads/Flask-weather-app">Flask-weather-app</a><br/> With PHP and MySQL Github repo - <a href="https://github.com/aravindprasad90/weather-app-php-sql">weather-app-php-sql</a> 
+        
 
-      - name: Ruby on Rails
-        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+    
