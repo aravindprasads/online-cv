@@ -165,23 +165,23 @@ projects:
 
       - title: <b>1. Microsoft Azure Certified </b>
         link: "https://www.credly.com/badges/8bedec6a-98a5-4443-af83-095fd230af33?source=linked_in_profile"
-        tagline: "Microsoft Azure Certified"                
+        #tagline: "Microsoft Azure Certification"                
       
       - title: <b>2. GCP Cloud Architect</b>
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/TC6KL8HU7TDX"
-        tagline: "GCP Cloud Architecture Certification"                
+        #tagline: "GCP Cloud Architecture Certification"                
         
       - title: <b>3. GCP Cloud Engineer</b>
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/BQPGV5REFP34"
-        tagline: "GCP Cloud Engineering Certification"
+        #tagline: "GCP Cloud Engineering Certification"
         
       - title: <b>4. AWS Containerizations</b>
         link: "https://www.coursera.org/account/accomplishments/certificate/SBXAS8GLSUVM"
-        tagline: "Containerizations with AWS"                
+        #tagline: "Containerizations with AWS"                
 
-      - title: <b>5. Certificates Catalogue</b>
+      - title: <b>5. Complete Certificates Catalogue</b>
         link: "https://aravindprasads.github.io/Certificates-Catalogue/"
-        tagline: "Complete Certificates Catalogue"                
+        #tagline: "Complete Certificates Catalogue"                
 
 publications:
     title: Open-Source Contributions and Apps
