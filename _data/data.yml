@@ -29,7 +29,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - 10 years of Software Development experience. 
+      - 10+ years of Software Development experience. 
+      - Cirrently working as a Engineer in Google.
       - Published <b><a href="#patents-id">5 Patents</a></b>, <b><a href="#drafts-id">8 IETF Internet-Drafts</a></b> and <b><a href="#journals-id">2 Springer Journal Publications</a></b>.
       - Experienced in Kubernetes(K8S), Micro-services, Containers, Dockers, Git and deployed multiple Cloud Native Apps.
       - <b><a href="#cloudcerts-id">Cloud Certifications</a></b> - <b><a href = "https://www.credly.com/badges/8bedec6a-98a5-4443-af83-095fd230af33?source=linked_in_profile">Azure Fundamentals</a></b>, <b><a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/TC6KL8HU7TDX">GCP Cloud Architect</a></b>, <b><a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/BQPGV5REFP34">GCP Cloud Engineer</a></b> and <b><a href = "https://www.coursera.org/account/accomplishments/certificate/SBXAS8GLSUVM">AWS Containerizations</a></b>.
@@ -62,8 +63,14 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Engineer
+      time: <b>2021 - Present </b>
+      company: <b>Google </b>
+      details: |        
+          - Working on Chronicle Security (https://chronicle.security/)
+    
     - role: Principal Software Engineer
-      time: <b>2021 - Present</b>
+      time: <b>2021</b>
       company: <b>DELL Technologies R&D </b>
       details: |        
           - Design lead for multiple projects and products across DELL. 
