@@ -122,7 +122,7 @@ projects:
         tagline: "Bridge-based link selection in Spanning Tree Protocol."
 
       - title: <b>5. US 16/705722</b>
-        #link: "#hook"
+        link: "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PTXT&S1=16705722&OS=16705722&RS=16705722"
         tagline: "Trust based Power rationing for POE devices (Publicly visible Patent URL is not published yet from US Patent Office).<br/><br/><h4 id=\"drafts-id\">IETF Drafts</h4>"                
       
       - title: <b>1. RADIUS End-to-end Security</b>
